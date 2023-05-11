@@ -1,0 +1,6 @@
+1. Install the necessary python libraries using requirements.txt (provided)
+   command: pip install -r requirements.txt
+2. Execute the main.py file using command
+   command: py .\main.py
+3. set back and wait for the results!
+   you can check the console log to check the process feedbacks
